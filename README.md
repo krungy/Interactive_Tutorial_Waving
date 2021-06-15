@@ -1,4 +1,4 @@
-# Moving wave with JavaScript
+# Moving Wave with JavaScript
 
 #### https://krungy.github.io/Interactive_Tutorial_Waving/
 
